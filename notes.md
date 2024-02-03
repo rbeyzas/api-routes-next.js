@@ -10,7 +10,7 @@ export default handler;
 
 ```
 
-![Success Api]([succes-api.png](https://raw.githubusercontent.com/rbeyzas/api-routes-next.js/main/public/success-api.png))
+![Success Api](https://raw.githubusercontent.com/rbeyzas/api-routes-next.js/main/public/success-api.png)
 
 - [Connect to Database](https://academind.com/tutorials/connect-to-database/)
 - component içerisinde (mesela Home Page componentinde) database connect yapmak güvenli değil.
